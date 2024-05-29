@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: solid #ee82ee 5px;
+    
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    gap: 5px;
+    padding: 10px;
+}
+.one{
+    border: solid black 4px;
+    width: 250px;
+    height: 350px;
+}
